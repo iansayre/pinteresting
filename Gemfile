@@ -23,6 +23,9 @@ gem 'jbuilder', '~> 2.0'
 # gem for bootstrap sass
 gem 'bootstrap-sass'
 
+# gem for devise
+gem 'devise'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
