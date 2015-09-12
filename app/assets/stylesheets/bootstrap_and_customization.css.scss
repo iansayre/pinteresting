@@ -1,5 +1,6 @@
 @import url('http://fonts.googleapis.com/css?family=Lato: 400, 700');
 
+
 $font-family-san-serif: 'Lato', 'Helvetica Neue', Helvetica, Arial, san-serif;
 $brand-primary: rgba(26, 188, 156,1.0);
 $jumbotron-bg: rgba(189, 195, 199,0.8);
@@ -9,6 +10,8 @@ $navbar-inverse-bg: rgba(44, 62, 80,1.0);
 $navbar-default-link-color: white;
 
 @import 'bootstrap';
+@import "bootstrap-sprockets";
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
 
 .center {
 	text-align: center;
